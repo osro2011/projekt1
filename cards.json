@@ -1,0 +1,10 @@
+[
+    {
+        "category": "debian-based",
+        "imgPath": "./img/tux.png",
+        "imgAlt": "Tux Penguin",
+        "title": "Lipsum",
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum veritatis aspernatur perferendis inventore unde magni illo nostrum corrupti sequi vel! A saepe dolor eum culpa magnam molestias excepturi dignissimos tenetur?",
+        "link": "#"
+    }
+]

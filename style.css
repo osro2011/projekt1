@@ -37,9 +37,9 @@ body {
   width: 300px;
   padding: 2rem 1rem;
   border-radius: 10px;
-  background-color: blue; }
-  .card a {
-    text-decoration: none; }
+  background-color: blue;
+  text-decoration: none;
+  color: #fff; }
   .card img {
     height: 90%;
     object-fit: contain; }
