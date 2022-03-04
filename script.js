@@ -1,26 +1,43 @@
+window.onload = showContent();
+
 async function showContent() {
 
-    cards = (await (await fetch("./cards.json")).json());
-    console.log(cards);
+    lists = (await (await fetch("./cards.json")).json());
+    console.log(lists);
     
-    for (card of cards) {
-        console.log(card);
+    for (list of lists) {
+        console.log(list);
 
-        newCard = `
-        <li>
-            <a href="${card.link}" class="card"> 
-                <div class="image">
-                    <img src="${card.imgPath}" alt="${card.imgAlt}">
-                </div>
-                <h3>${card.title}</h3>
-                <p>${card.text}</p>
-            </a>
-        </li>
+        newList = `
+            <section>
+                <h1>${list.title}</h1>
+                <ul class="content" id=${list.category}></ul>
+            </section>
         `;
 
         tempWrapper = document.createElement('div');
-        tempWrapper.innerHTML = newCard;
+        tempWrapper.id = list.category;
+        tempWrapper.innerHTML = newList;
 
-        document.getElementById(card.category).innerHTML += newCard;
+        document.getElementById("bottom").innerHTML += newList;
+
+        for (card of list.children) {
+            newCard = `
+            <li>
+                <a href="${card.link}" class="card"> 
+                    <div class="image">
+                        <img src="${card.imgPath}" alt="${card.imgAlt}">
+                    </div>
+                    <h3>${card.title}</h3>
+                    <p>${card.text}</p>
+                </a>
+            </li>
+            `;
+
+            tempWrapper = document.createElement('div');
+            tempWrapper.innerHTML = newCard;
+
+            document.getElementById(list.category).innerHTML += newCard;
+        }
     }
 }
