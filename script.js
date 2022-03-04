@@ -2,7 +2,7 @@ window.onload = showContent();
 
 async function showContent() {
 
-    lists = (await (await fetch("./cards.json")).json());
+    lists = (await (await fetch("./lists.json")).json());
     console.log(lists);
     
     for (list of lists) {

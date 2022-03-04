@@ -1,0 +1,193 @@
+[
+    {
+        "category": "debian-based",
+        "title": "Debian based",
+        "children": [
+            {
+                "imgPath": "./img/debian.svg",
+                "imgAlt": "Debian Logo",
+                "title": "Debian",
+                "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum veritatis aspernatur perferendis inventore unde magni illo nostrum corrupti sequi vel! A saepe dolor eum culpa magnam molestias excepturi dignissimos tenetur?",
+                "link": "#"
+            },
+            {
+                "imgPath": "./img/ubuntu.svg",
+                "imgAlt": "Ubuntu Logo",
+                "title": "Ubuntu",
+                "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum veritatis aspernatur perferendis inventore unde magni illo nostrum corrupti sequi vel! A saepe dolor eum culpa magnam molestias excepturi dignissimos tenetur?",
+                "link": "#"
+            },
+            {
+                "imgPath": "./img/pop_os.svg",
+                "imgAlt": "Pop!_OS Logo",
+                "title": "Pop!_OS",
+                "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum veritatis aspernatur perferendis inventore unde magni illo nostrum corrupti sequi vel! A saepe dolor eum culpa magnam molestias excepturi dignissimos tenetur?",
+                "link": "#"
+            },
+            {
+                "imgPath": "./img/mint.svg",
+                "imgAlt": "Mint Logo",
+                "title": "Linux Mint",
+                "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum veritatis aspernatur perferendis inventore unde magni illo nostrum corrupti sequi vel! A saepe dolor eum culpa magnam molestias excepturi dignissimos tenetur?",
+                "link": "#"
+            },
+            {
+                "imgPath": "./img/kali.svg",
+                "imgAlt": "Kali Linux Logo",
+                "title": "Kali Linux",
+                "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum veritatis aspernatur perferendis inventore unde magni illo nostrum corrupti sequi vel! A saepe dolor eum culpa magnam molestias excepturi dignissimos tenetur?",
+                "link": "#"
+            },
+            {
+                "imgPath": "./img/kubuntu.svg",
+                "imgAlt": "Kubuntu Logo",
+                "title": "Kubuntu",
+                "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum veritatis aspernatur perferendis inventore unde magni illo nostrum corrupti sequi vel! A saepe dolor eum culpa magnam molestias excepturi dignissimos tenetur?",
+                "link": "#"
+            },
+            {
+                "imgPath": "./img/lubuntu.svg",
+                "imgAlt": "Lubuntu Logo",
+                "title": "Lubuntu",
+                "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum veritatis aspernatur perferendis inventore unde magni illo nostrum corrupti sequi vel! A saepe dolor eum culpa magnam molestias excepturi dignissimos tenetur?",
+                "link": "#"
+            }
+        ]
+    },
+    {
+        "category": "rhel-based",
+        "title": "Red Hat Based",
+        "children": [
+            {
+                "imgPath": "./img/redhat.svg",
+                "imgAlt": "Red Hat Enterprise Linux Logo",
+                "title": "Red Hat Enterprise Linux",
+                "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum veritatis aspernatur perferendis inventore unde magni illo nostrum corrupti sequi vel! A saepe dolor eum culpa magnam molestias excepturi dignissimos tenetur?",
+                "link": "#"
+            },
+            {
+                "imgPath": "./img/fedora.svg",
+                "imgAlt": "Fedora Logo",
+                "title": "Fedora",
+                "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum veritatis aspernatur perferendis inventore unde magni illo nostrum corrupti sequi vel! A saepe dolor eum culpa magnam molestias excepturi dignissimos tenetur?",
+                "link": "#"
+            }, 
+            {
+                "imgPath": "./img/oracle.svg",
+                "imgAlt": "Oracle Linux Logo",
+                "title": "Oracle Linux",
+                "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum veritatis aspernatur perferendis inventore unde magni illo nostrum corrupti sequi vel! A saepe dolor eum culpa magnam molestias excepturi dignissimos tenetur?",
+                "link": "#"
+            },
+            {
+                "imgPath": "./img/centos.svg",
+                "imgAlt": "CentOS Logo",
+                "title": "CentOS Linux",
+                "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum veritatis aspernatur perferendis inventore unde magni illo nostrum corrupti sequi vel! A saepe dolor eum culpa magnam molestias excepturi dignissimos tenetur?",
+                "link": "#"
+            },
+            {
+                "imgPath": "./img/mandriva.svg",
+                "imgAlt": "Mandriva Linux Logo",
+                "title": "Mandriva Linux",
+                "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum veritatis aspernatur perferendis inventore unde magni illo nostrum corrupti sequi vel! A saepe dolor eum culpa magnam molestias excepturi dignissimos tenetur?",
+                "link": "#"
+            }
+        ]
+    },
+    {
+        "category": "slackware-based",
+        "title": "Slackware Based",
+        "children": [
+            {
+                "imgPath": "./img/slackware.svg",
+                "imgAlt": "Slackware Logo",
+                "title": "Slackware",
+                "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum veritatis aspernatur perferendis inventore unde magni illo nostrum corrupti sequi vel! A saepe dolor eum culpa magnam molestias excepturi dignissimos tenetur?",
+                "link": "#"
+            },
+            {
+                "imgPath": "./img/opensuse.svg",
+                "imgAlt": "openSUSE Logo",
+                "title": "openSUSE",
+                "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum veritatis aspernatur perferendis inventore unde magni illo nostrum corrupti sequi vel! A saepe dolor eum culpa magnam molestias excepturi dignissimos tenetur?",
+                "link": "#"
+            }, 
+            {
+                "imgPath": "./img/tumbleweed.svg",
+                "imgAlt": "Tumbleweed Logo",
+                "title": "Tumbleweed",
+                "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum veritatis aspernatur perferendis inventore unde magni illo nostrum corrupti sequi vel! A saepe dolor eum culpa magnam molestias excepturi dignissimos tenetur?",
+                "link": "#"
+            },
+            {
+                "imgPath": "./img/leap.svg",
+                "imgAlt": "Leap Logo",
+                "title": "Leap",
+                "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum veritatis aspernatur perferendis inventore unde magni illo nostrum corrupti sequi vel! A saepe dolor eum culpa magnam molestias excepturi dignissimos tenetur?",
+                "link": "#"
+            }
+        ]
+    },
+    {
+        "category": "arch-based",
+        "title": "Arch Based",
+        "children": [
+            {
+                "imgPath": "./img/arch.svg",
+                "imgAlt": "Arch Logo",
+                "title": "Arch Linux",
+                "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum veritatis aspernatur perferendis inventore unde magni illo nostrum corrupti sequi vel! A saepe dolor eum culpa magnam molestias excepturi dignissimos tenetur?",
+                "link": "#"
+            },
+            {
+                "imgPath": "./img/manjaro.svg",
+                "imgAlt": "Manjaro Logo",
+                "title": "Manjaro",
+                "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum veritatis aspernatur perferendis inventore unde magni illo nostrum corrupti sequi vel! A saepe dolor eum culpa magnam molestias excepturi dignissimos tenetur?",
+                "link": "#"
+            }
+        ]
+    },
+    {
+        "category": "linux-based",
+        "title": "Other",
+        "children": [
+            {
+                "imgPath": "./img/hm.svg",
+                "imgAlt": "Hannah Montana Logo",
+                "title": "Hannah Montana Linux",
+                "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum veritatis aspernatur perferendis inventore unde magni illo nostrum corrupti sequi vel! A saepe dolor eum culpa magnam molestias excepturi dignissimos tenetur?",
+                "link": "#"
+            },
+            {
+                "imgPath": "./img/amogos.svg",
+                "imgAlt": "AmogOS Logo",
+                "title": "AmogOS",
+                "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum veritatis aspernatur perferendis inventore unde magni illo nostrum corrupti sequi vel! A saepe dolor eum culpa magnam molestias excepturi dignissimos tenetur?",
+                "link": "#"
+            },
+            {
+                "imgPath": "./img/gentoo.svg",
+                "imgAlt": "Gentoo Logo",
+                "title": "Gentoo",
+                "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum veritatis aspernatur perferendis inventore unde magni illo nostrum corrupti sequi vel! A saepe dolor eum culpa magnam molestias excepturi dignissimos tenetur?",
+                "link": "#"
+            },
+            {
+                "imgPath": "./img/void.svg",
+                "imgAlt": "Void Linux Logo",
+                "title": "Void Linux",
+                "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum veritatis aspernatur perferendis inventore unde magni illo nostrum corrupti sequi vel! A saepe dolor eum culpa magnam molestias excepturi dignissimos tenetur?",
+                "link": "#"
+            },
+            {
+                "imgPath": "./img/alpine.svg",
+                "imgAlt": "Alpine Logo",
+                "title": "Alpine Linux",
+                "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum veritatis aspernatur perferendis inventore unde magni illo nostrum corrupti sequi vel! A saepe dolor eum culpa magnam molestias excepturi dignissimos tenetur?",
+                "link": "#"
+            }
+        ]
+    }
+]
