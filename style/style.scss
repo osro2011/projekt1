@@ -1,9 +1,6 @@
-$primary-color: #fff;
+@import "font", "resets";
 
-*, html {
-    margin: 0;
-    padding: 0;
-}
+$primary-color: #fff;
 
 body {
     display: block;
