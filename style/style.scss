@@ -1,6 +1,8 @@
-@import "font", "resets";
+@import "font", "resets", "colors";
 
-$primary-color: #fff;
+html {
+    scroll-behavior: smooth;
+}
 
 body {
     display: block;
@@ -49,10 +51,10 @@ body {
 
     border-radius: 10px;
 
-    background-color: blue;
+    // background-color: $card-background-color;
     
     text-decoration: none;
-    color: $primary-color;
+    // color: $text-primary-color;
 
     img {
         height: 90%;
@@ -72,9 +74,6 @@ body {
 
     margin: auto;
 
-    background-color: white;
-
     width: 100px;
     height: 100px;
-    border-radius: 100%;
 }
