@@ -9,7 +9,7 @@ async function showContent() {
         console.log(list);
 
         newList = `
-            <section>
+            <section style="background-color: ${list.background_color};">
                 <h1>${list.title}</h1>
                 <ul class="content" id=${list.category}></ul>
             </section>
@@ -26,7 +26,7 @@ async function showContent() {
             <li>
                 <a href="${card.link}" class="card"> 
                     <div class="image">
-                        <img src="${card.imgPath}" alt="${card.imgAlt}">
+                        <img src="${card.img_path}" alt="${card.img_alt}">
                     </div>
                     <h3>${card.title}</h3>
                     <p>${card.text}</p>
