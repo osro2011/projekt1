@@ -2,8 +2,10 @@
     {
         "category": "debian-based",
         "title": "Debian based",
-        "text_color":"",
-        "background_color": "#3c3c3c",
+        "text_color": "#d8d8d8",
+        "card_color": "#1f1f2d",
+        "card_border_color": "#222a33",
+        "background_color": "#0f0f16",
         "children": [
             {
                 "img_path": "./img/debian.svg",
@@ -59,7 +61,10 @@
     {
         "category": "rhel-based",
         "title": "Red Hat Based",
-        "background_color": "#fff",
+        "text_color": "#d8d8d8",
+        "card_color": "#3f3c39",
+        "card_border_color": "#3f393f",
+        "background_color": "#191816",
         "children": [
             {
                 "img_path": "./img/redhat.svg",
@@ -87,7 +92,10 @@
     {
         "category": "slackware-based",
         "title": "Slackware Based",
-        "background_color": "#fff",
+        "text_color": "#d8d8d8",
+        "card_color": "#333f33",
+        "card_border_color": "#2f3f2f",
+        "background_color": "#1e261e",
         "children": [
             {
                 "img_path": "./img/slackware.svg",
@@ -122,7 +130,9 @@
     {
         "category": "arch-based",
         "title": "Arch Based",
-        "background_color": "#fff",
+        "text_color": "#d8d8d8",
+        "card_color": "#532244",
+        "background_color": "hotpink",
         "children": [
             {
                 "img_path": "./img/arch.svg",
@@ -143,7 +153,9 @@
     {
         "category": "linux-based",
         "title": "Other",
-        "background_color": "#fff",
+        "text_color": "#d8d8d8",
+        "card_color": "#532244",
+        "background_color": "black",
         "children": [
             {
                 "img_path": "./img/amogos.svg",

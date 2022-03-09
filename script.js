@@ -9,7 +9,7 @@ async function showContent() {
         console.log(list);
 
         newList = `
-            <section style="background-color: ${list.background_color};">
+            <section style="background-color: ${list.background_color}; color: ${list.text_color};">
                 <h1>${list.title}</h1>
                 <ul class="content" id=${list.category}></ul>
             </section>
@@ -24,7 +24,7 @@ async function showContent() {
         for (card of list.children) {
             newCard = `
             <li>
-                <a href="${card.link}" class="card"> 
+                <a href="${card.link}" class="card" style="background-color: ${list.card_color}; border: 3px solid ${list.card_border_color};"> 
                     <div class="image">
                         <img src="${card.img_path}" alt="${card.img_alt}">
                     </div>
