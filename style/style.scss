@@ -4,15 +4,7 @@ body {
     display: block;
 }
 
-nav {
-    position: fixed;
-    top: 0;
-    background-color: blue;
-    height: 50px;
-    width: 100vw;
-}
-
-.top {
+.nav {
     display: flex;
     align-items: center;
 
@@ -70,7 +62,6 @@ section {
         margin: 0 auto 1.5rem auto;
         padding: .2rem 0;
     
-        width: 150px;
         height: 150px;
     }
 
