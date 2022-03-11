@@ -2,10 +2,9 @@
     {
         "category": "debian-based",
         "title": "Debian based",
-        "text_color": "#d8d8d8",
-        "card_color": "#1f1f2d",
-        "card_border_color": "#222a33",
-        "background_color": "#0f0f16",
+        "card_color": "#3f3336",
+        "card_border_color": "#4c393e",
+        "background_color": "#261e20",
         "children": [
             {
                 "img_path": "./img/debian.svg",
@@ -59,43 +58,11 @@
         ]
     },
     {
-        "category": "rhel-based",
-        "title": "Red Hat Based",
-        "text_color": "#d8d8d8",
-        "card_color": "#3f3c39",
-        "card_border_color": "#3f393f",
-        "background_color": "#191816",
-        "children": [
-            {
-                "img_path": "./img/redhat.svg",
-                "img_alt": "Red Hat Enterprise Linux Logo",
-                "title": "Red Hat Enterprise Linux",
-                "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum veritatis aspernatur perferendis inventore unde magni illo nostrum corrupti sequi vel! A saepe dolor eum culpa magnam molestias excepturi dignissimos tenetur?",
-                "link": "#"
-            },
-            {
-                "img_path": "./img/fedora.svg",
-                "img_alt": "Fedora Logo",
-                "title": "Fedora",
-                "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum veritatis aspernatur perferendis inventore unde magni illo nostrum corrupti sequi vel! A saepe dolor eum culpa magnam molestias excepturi dignissimos tenetur?",
-                "link": "#"
-            }, 
-            {
-                "img_path": "./img/centos.svg",
-                "img_alt": "CentOS Logo",
-                "title": "CentOS Linux",
-                "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum veritatis aspernatur perferendis inventore unde magni illo nostrum corrupti sequi vel! A saepe dolor eum culpa magnam molestias excepturi dignissimos tenetur?",
-                "link": "#"
-            }
-        ]
-    },
-    {
         "category": "slackware-based",
         "title": "Slackware Based",
-        "text_color": "#d8d8d8",
-        "card_color": "#333f33",
-        "card_border_color": "#2f3f2f",
-        "background_color": "#1e261e",
+        "card_color": "#33363f",
+        "card_border_color": "#393e4c",
+        "background_color": "#1e2026",
         "children": [
             {
                 "img_path": "./img/slackware.svg",
@@ -128,11 +95,41 @@
         ]
     },
     {
+        "category": "rhel-based",
+        "title": "Red Hat Based",
+        "card_color": "#3f3333",
+        "card_border_color": "#4c3939",
+        "background_color": "#261e1e",
+        "children": [
+            {
+                "img_path": "./img/redhat.svg",
+                "img_alt": "Red Hat Enterprise Linux Logo",
+                "title": "Red Hat Enterprise Linux",
+                "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum veritatis aspernatur perferendis inventore unde magni illo nostrum corrupti sequi vel! A saepe dolor eum culpa magnam molestias excepturi dignissimos tenetur?",
+                "link": "#"
+            },
+            {
+                "img_path": "./img/fedora.svg",
+                "img_alt": "Fedora Logo",
+                "title": "Fedora",
+                "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum veritatis aspernatur perferendis inventore unde magni illo nostrum corrupti sequi vel! A saepe dolor eum culpa magnam molestias excepturi dignissimos tenetur?",
+                "link": "#"
+            }, 
+            {
+                "img_path": "./img/centos.svg",
+                "img_alt": "CentOS Logo",
+                "title": "CentOS Linux",
+                "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum veritatis aspernatur perferendis inventore unde magni illo nostrum corrupti sequi vel! A saepe dolor eum culpa magnam molestias excepturi dignissimos tenetur?",
+                "link": "#"
+            }
+        ]
+    },
+    {
         "category": "arch-based",
         "title": "Arch Based",
-        "text_color": "#d8d8d8",
-        "card_color": "#532244",
-        "background_color": "hotpink",
+        "card_color": "#333b3f",
+        "card_border_color": "#39464c",
+        "background_color": "#1e2326",
         "children": [
             {
                 "img_path": "./img/arch.svg",
@@ -153,9 +150,9 @@
     {
         "category": "linux-based",
         "title": "Other",
-        "text_color": "#d8d8d8",
-        "card_color": "#532244",
-        "background_color": "black",
+        "card_color": "#333f38",
+        "card_border_color": "#394c41",
+        "background_color": "#1e2622",
         "children": [
             {
                 "img_path": "./img/amogos.svg",

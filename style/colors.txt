@@ -1,0 +1,61 @@
+Main OS primärfärg i HSV
+
+BG:
+H +0
+S = 20
+V = 15
+
+FG:
+H +0
+S = 20
+V = 25
+
+BD:
+H +0
+S = 25
+V = 30
+
+Debian based
+Main: a80030
+BG: 261e20
+FG: 3f3336
+BD: 4c393e
+
+Old:
+0f0f16
+1f1f2d
+222a33
+
+RHEL based
+Main: ee0000
+BG: 261e1e
+FG: 3f3333
+BD: 4c3939
+
+Old:
+191816
+3f3c39
+3f393f
+
+Slack based
+Main: 4962ae
+BG: 1e2026
+FG: 33363f
+BD: 393e4c
+
+Old:
+1e261e
+333f33
+2f3f2f
+
+Arch based:
+Main: 1793d1
+BG: 1e2326
+FG: 333b3f
+BD: 39464c
+
+Other: 
+Main: 478061
+BG: 1e2622
+FG: 333f38
+BD: 394c41

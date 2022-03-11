@@ -1,3 +1,9 @@
+@import "colors";
+
+html {
+    color: $text-primary-color;
+}
+
 h1, 
 h2,
 h3 {

@@ -9,7 +9,7 @@ async function showContent() {
         console.log(list);
 
         newList = `
-            <section style="background-color: ${list.background_color}; color: ${list.text_color};">
+            <section style="background-color: ${list.background_color};">
                 <h1>${list.title}</h1>
                 <ul class="content" id=${list.category}></ul>
             </section>

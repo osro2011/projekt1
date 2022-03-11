@@ -1,9 +1,5 @@
 @import "font", "resets", "colors";
 
-html {
-    scroll-behavior: smooth;
-}
-
 body {
     display: block;
 }
@@ -20,9 +16,9 @@ nav {
     display: flex;
     align-items: center;
 
-    background-color: aquamarine;
+    background-color: $background-color;
     width: 100%;
-    height: calc(200vh/3);
+    height: calc(80px);
 }
 
 .title {
@@ -58,16 +54,25 @@ section {
 
 .card {
     display: block;
-    width: 300px;
-    padding: 2rem 1rem;
+    max-width: 300px;
+    height: 400px;
+    padding: 1rem;
 
     border-radius: 10px;
-    // border: 3px solid #222a33;
-
-    // background-color: $card-background-color;
     
     text-decoration: none;
-    // color: $text-primary-color;
+
+    .image {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    
+        margin: 0 auto 1.5rem auto;
+        padding: .2rem 0;
+    
+        width: 150px;
+        height: 150px;
+    }
 
     img {
         height: 90%;
@@ -80,13 +85,3 @@ section {
     }
 }
 
-.image {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-
-    margin: 0 auto 1.5rem auto;
-
-    width: 150px;
-    height: 150px;
-}
