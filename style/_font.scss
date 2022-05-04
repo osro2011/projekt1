@@ -1,4 +1,5 @@
 @import "colors";
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap');
 
 html {
     color: $text-primary-color;
@@ -15,5 +16,5 @@ a {
 }
 
 p {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
